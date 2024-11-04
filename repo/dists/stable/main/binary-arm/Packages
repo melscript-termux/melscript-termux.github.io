@@ -5,13 +5,11 @@ Priority: optional
 Architecture: arm
 Depends: php
 Maintainer: Ravy Novais Sales <melscript@proton.me>
-Description:
-	English: MelScript facilitates the development of interactive and dynamic web applications with a simple and powerful syntax.
-	Portugues: O MelScript facilita o desenvolvimento de aplicações web interativas e dinâmicas com sintaxe simples e poderosa.
+Description: English: MelScript facilitates the development of interactive and dynamic web applications with a simple and powerful syntax. ||| Portugues: O MelScript facilita o desenvolvimento de aplicações web interativas e dinâmicas com sintaxe simples e poderosa.
 Filename: dists/stable/main/binary-arm/melscript-1.0.3_arm.deb
-Size: 67096
-MD5Sum: 4508d3aefcb25278de5724b9edbf6e5a
-SHA1: 2df216f17fdd814aa236492d9cc8533cfcfcf978
-SHA256: 5a56953669c6d1e12c133f0b79e6fcccd2446bcb1a98ba49996ddd87344e8fc5
-SHA512: d8d48f1d1f03fd6ccb2bf4b4d976852a10a0058b04b948962e950dd2e7f7f822e70e750a9bf26f4781cbc0237e19d6821328199ada39aa1ee1877e2ae45f7260
+Size: 67064
+MD5Sum: b3bd5cf5555a40f758a8596f47dc13e1
+SHA1: 3883f893a944abe40e3cdf063b21c38941dc40b3
+SHA256: 294038f1463a8ead0044490c672574a1f451e11247031416f7c90705f6b8ff15
+SHA512: 40a19f9f6b76592ab644df72b0692f2a057d1bfe37bcf2732d18de46c2615e6ed9bf06a910e23e95b85994a1b4253ff5a42fff1c57bf8b70654dce4585cdf99f
 
