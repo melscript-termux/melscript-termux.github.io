@@ -1,0 +1,17 @@
+Package: melscript
+Version: 1.0.3
+Section: utils
+Priority: optional
+Architecture: aarch64
+Depends: php
+Maintainer: Ravy Novais Sales <melscript@proton.me>
+Description:
+	English: MelScript facilitates the development of interactive and dynamic web applications with a simple and powerful syntax.
+	Portugues: O MelScript facilita o desenvolvimento de aplicações web interativas e dinâmicas com sintaxe simples e poderosa.
+Filename: dists/stable/main/binary-aarch64/melscript-1.0.3_aarch64.deb
+Size: 216388
+MD5Sum: 764ac6df119848c403f3447a650a908b
+SHA1: 8505712c36f2c7c19c2b538d74764edd03788619
+SHA256: b993dd266198d924c743e14e21f88618439dbd256b49cfc89235dacd28ef6027
+SHA512: 07b82d596d075e156fcdd3f7957d4b3c6c0afa257022da9a03ba544c9dc45dab3d0aa3f1640a5e5578e185b1fd02fa10e0881a33ddac0fa0f11190f91d5c8429
+
