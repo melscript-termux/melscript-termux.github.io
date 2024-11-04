@@ -9,7 +9,7 @@ Ideal para criar interfaces intuitivas, manipular o DOM e interagir com APIs ext
 Primeiro você precisa adicionar o repositório ao APT:
 
 ```bash
-echo 'deb [trusted=yes] https://melscript-termux.github.io/repo' >> $PREFIX/etc/apt/sources.list
+echo 'deb [trusted=yes] https://melscript-termux.github.io/repo stable main' >> $PREFIX/etc/apt/sources.list
 ```
 
 Depois você precisa sincronizar o seu termux:
